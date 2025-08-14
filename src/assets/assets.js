@@ -196,7 +196,7 @@ export const features = [
   {
     icon: trust_icon,
     title: "Trusted by Thousands",
-    description: "Loved by 10,000+ happy customers.",
+    description: "Loved by 10+ happy customers.",
   },
 ];
 
